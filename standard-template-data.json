@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-10-19T06:02:30.253131870Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-10-19T06:08:34.608600Z",
     "templateType": "trip_l",
     "propertyId": "01a0f18b-b55f-7aa1-91b2-4c558e567559",
     "homepageId": "01a1529d-20fb-7017-84c5-f15b7ed6474d"
@@ -67,6 +67,47 @@
       "securityDeposit": 0
     },
     "facilities": [
+      {
+        "id": "01a15297-d6fa-756b-9d31-4586b60698f8",
+        "name": "오션뷰",
+        "description": "창 너머로 펼쳐지는 풍경이\n머무는 시간의 흐름을 한층 더 여유롭게 만듭니다.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a152c4-0458-7179-9c5b-ec50fe92a289",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15297-d6fa-756b-9d31-4586b60698f8/main/1792389939600-dnb210ikbx.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a152c4-03cb-7911-8b9a-af6314146c7c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15297-d6fa-756b-9d31-4586b60698f8/main/1792389939622-5dzfhkdci7.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a152c4-0402-7f20-8dc4-920b6766435a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15297-d6fa-756b-9d31-4586b60698f8/main/1792389939602-30crze3eb3.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a152c4-0451-7679-9736-4e91a06525be",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a15297-d6fa-756b-9d31-4586b60698f8/main/1792389939623-v2xq32wr9z.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
       {
         "id": "01a14315-d7d7-7f34-a05b-4d4d04accf19",
         "name": "애견동반",
@@ -273,7 +314,7 @@
       {
         "id": "01a152a8-e084-71c8-b662-b8890180f16e",
         "name": "포토존",
-        "description": "",
+        "description": "반려견과 함께 \n즐거운 여행의 순간을 담아 보세요.",
         "usageGuide": "",
         "displayOrder": 4,
         "images": [
@@ -821,7 +862,16 @@
     "templateType": "trip_l",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "01a152c6-a865-7bd4-bc61-ea6792b4ecbc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1529d-20fb-7017-84c5-f15b7ed6474d/logo/1792390113124-7634book02.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
