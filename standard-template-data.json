@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-10-19T06:22:23.828194181Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-10-19T06:25:01.619130714Z",
     "templateType": "trip_l",
     "propertyId": "01a0f18b-b55f-7aa1-91b2-4c558e567559",
     "homepageId": "01a1529d-20fb-7017-84c5-f15b7ed6474d"
@@ -1072,7 +1072,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "바다를 곁에 둔 하루",
                 "images": [
                   {
                     "id": "01a152af-8d48-7d90-b534-7d8474f3568c",
