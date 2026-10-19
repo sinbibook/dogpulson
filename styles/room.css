@@ -601,6 +601,8 @@
   color: var(--color-secondary);
   font-family: var(--font-ko-main);
   font-weight: normal;
+  /* 가운데 이미지 위 문구는 모든 폭에서 가운데 정렬 (1440px 이하는 .center 가 이미 가운데) */
+  text-align: center;
 }
 @media (max-width: 1440px) {
   .con7 .tx1 {
