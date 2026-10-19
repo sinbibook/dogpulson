@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-10-19T05:52:14.295278776Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-19T05:53:11.024894309Z",
     "templateType": "trip_l",
     "propertyId": "01a0f18b-b55f-7aa1-91b2-4c558e567559",
     "homepageId": "01a1529d-20fb-7017-84c5-f15b7ed6474d"
@@ -963,14 +963,14 @@
                 "description": ""
               },
               "essence": {
-                "title": "Room Preview",
+                "title": "함께 머무는 공간",
                 "images": [ ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": ""
               },
               "gallery": {
-                "title": "",
+                "title": "준비된 특별함",
                 "images": [ ],
                 "videos": [ ],
                 "mediaType": "image",
