@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.24.0",
-    "generatedAt": "2026-10-19T07:28:06.760103770Z",
+    "version": "1.25.0",
+    "generatedAt": "2026-10-19T07:32:52.154564685Z",
     "templateType": "trip_l",
     "propertyId": "01a0f18b-b55f-7aa1-91b2-4c558e567559",
     "homepageId": "01a1529d-20fb-7017-84c5-f15b7ed6474d"
@@ -893,7 +893,7 @@
           "sections": [
             {
               "hero": {
-                "title": "바다를 곁에 둔 하루",
+                "title": "함께 머무는 시간",
                 "images": [
                   {
                     "id": "01a152a9-34b8-7e87-930a-061a264ad4f1",
@@ -907,7 +907,7 @@
                     "id": "01a152a9-33e5-760e-83cc-eeb09196af5c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1529d-20fb-7017-84c5-f15b7ed6474d/index_hero/1792388182688-7yidnju352.jpg",
                     "sortOrder": 1,
-                    "description": "여유로움",
+                    "description": "반려견동반",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -915,7 +915,7 @@
                     "id": "01a152a9-349f-7f09-a0d9-aa6a695222a4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1529d-20fb-7017-84c5-f15b7ed6474d/index_hero/1792388182685-f3n8974g1t.jpg",
                     "sortOrder": 2,
-                    "description": "편안함",
+                    "description": "힐링",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1030,17 +1030,9 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "01a152d7-00a3-7155-b99a-81d2e316716e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1529d-20fb-7017-84c5-f15b7ed6474d/index_signature/1792391184043-06u0vccqlf.jpg",
+                    "id": "01a15313-d364-71fe-85bb-94f658ee16ac",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1529d-20fb-7017-84c5-f15b7ed6474d/index_signature/1792395170155-p1jdpilno3.jpg",
                     "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "01a152b7-ae02-7bee-b116-9ee5dd03ad8d",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1529d-20fb-7017-84c5-f15b7ed6474d/index_signature/1792389128932-14bomz3np6.jpg",
-                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
