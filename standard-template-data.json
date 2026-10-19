@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-10-19T06:00:42.256927522Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-10-19T06:01:56.417086622Z",
     "templateType": "trip_l",
     "propertyId": "01a0f18b-b55f-7aa1-91b2-4c558e567559",
     "homepageId": "01a1529d-20fb-7017-84c5-f15b7ed6474d"
@@ -849,7 +849,7 @@
                     "id": "01a152a9-34b8-7e87-930a-061a264ad4f1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1529d-20fb-7017-84c5-f15b7ed6474d/index_hero/1792388182687-xujzb4perj.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "오션뷰",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -857,7 +857,7 @@
                     "id": "01a152a9-33e5-760e-83cc-eeb09196af5c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1529d-20fb-7017-84c5-f15b7ed6474d/index_hero/1792388182688-7yidnju352.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "여유로움",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -865,7 +865,7 @@
                     "id": "01a152a9-349f-7f09-a0d9-aa6a695222a4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1529d-20fb-7017-84c5-f15b7ed6474d/index_hero/1792388182685-f3n8974g1t.jpg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "편안함",
                     "isSelected": true,
                     "blockId": null
                   },
