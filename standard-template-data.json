@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.27.0",
-    "generatedAt": "2026-10-19T07:36:12.390956701Z",
+    "version": "1.28.0",
+    "generatedAt": "2026-10-19T07:38:09.306278505Z",
     "templateType": "trip_l",
     "propertyId": "01a0f18b-b55f-7aa1-91b2-4c558e567559",
     "homepageId": "01a1529d-20fb-7017-84c5-f15b7ed6474d"
@@ -1094,7 +1094,7 @@
                     "id": "01a152af-8c95-7c3f-9b08-035f7e580082",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1529d-20fb-7017-84c5-f15b7ed6474d/main_hero/1792388598551-x339rv17k7.jpg",
                     "sortOrder": 1,
-                    "description": "여유로움",
+                    "description": "반려견동반",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1102,7 +1102,7 @@
                     "id": "01a152af-8d38-7ec2-a12b-2b09ae66af96",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1529d-20fb-7017-84c5-f15b7ed6474d/main_hero/1792388598553-2yghwpah5a.jpg",
                     "sortOrder": 2,
-                    "description": "편안함",
+                    "description": "힐링",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1191,7 +1191,7 @@
               },
               "about": [
                 {
-                  "title": "바다를 곁에 둔 하루",
+                  "title": "함께 머무는 시간",
                   "images": [
                     {
                       "id": "01a152af-8e7e-7657-847e-73657a091815",
